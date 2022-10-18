@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/anasayfaFragment"
+        android:icon="@drawable/home_filled_icon"
+        android:title="Anasayfa" />
+    <item
+        android:id="@+id/goFragment"
+        android:icon="@drawable/ic_go_icon"
+        android:title="Trendyol Go" />
+    <item
+        android:id="@+id/favorilerimFragment"
+        android:icon="@drawable/favorite_filled_icon"
+        android:title="Favorilerim" />
+    <item
+        android:id="@+id/sepetimFragment"
+        android:icon="@drawable/cart_filled_icon"
+        android:title="Sepetim" />
+    <item
+        android:id="@+id/hesabimFragment"
+        android:icon="@drawable/account_filled_icon"
+        android:title="Hesabım" />
+</menu>

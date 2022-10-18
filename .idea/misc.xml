@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/account_filled_icon.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/account_icon.xml" value="0.134" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/anasayfa_icon_degisim.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/arrow_back.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/back_button_bg.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/cart_filled_icon.xml" value="0.134" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/cart_icon.xml" value="0.134" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/cursor.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/etiket_bg.xml" value="0.2055" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/favorilerim_icon_degisimi.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/favorite_filled_icon.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/favorite_gray_icon.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/favorite_icon.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/go_icon.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/hesabim_icon_degisimi.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/home_filled_icon.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/home_gray_icon.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/home_icon.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/ic_baseline_circle_notifications_24.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/ic_go_icon.xml" value="0.2055" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/icon_degisimi.xml" value="0.134" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/kalp_icon.xml" value="0.2055" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/kalp_icon_bg.xml" value="0.2055" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/notification_bg.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/notification_icon.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/notifications_icon.xml" value="0.2055" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/search.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/search_icon.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/searchview_bg.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/drawable/sepetim_icon_degisimi.xml" value="0.174" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/layout/card_tasarim.xml" value="0.4" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/layout/etiket.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/layout/etiket_tasarim.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/layout/fragment_anasayfa.xml" value="0.264" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/layout/fragment_favorilerim.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/layout/fragment_go.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/layout/fragment_hesabim.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/layout/fragment_sepetim.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/layout/slide_item_container.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/menu/bottom_menu.xml" value="0.253125" />
+        <entry key="..\:/Users/kocak/AndroidStudioProjects/TrendyolTasarimClone/app/src/main/res/menu/toolbar_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

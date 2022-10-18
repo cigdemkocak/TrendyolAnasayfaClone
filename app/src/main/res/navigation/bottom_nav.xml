@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_nav"
+    app:startDestination="@id/anasayfaFragment">
+
+    <fragment
+        android:id="@+id/anasayfaFragment"
+        android:name="com.cigdemkocak.trendyoltasarimclone.AnasayfaFragment"
+        android:label="fragment_anasayfa"
+        tools:layout="@layout/fragment_anasayfa" />
+    <fragment
+        android:id="@+id/goFragment"
+        android:name="com.cigdemkocak.trendyoltasarimclone.GoFragment"
+        android:label="fragment_go"
+        tools:layout="@layout/fragment_go" />
+    <fragment
+        android:id="@+id/favorilerimFragment"
+        android:name="com.cigdemkocak.trendyoltasarimclone.FavorilerimFragment"
+        android:label="fragment_favorilerim"
+        tools:layout="@layout/fragment_favorilerim" />
+    <fragment
+        android:id="@+id/sepetimFragment"
+        android:name="com.cigdemkocak.trendyoltasarimclone.SepetimFragment"
+        android:label="fragment_sepetim"
+        tools:layout="@layout/fragment_sepetim" />
+    <fragment
+        android:id="@+id/hesabimFragment"
+        android:name="com.cigdemkocak.trendyoltasarimclone.HesabimFragment"
+        android:label="fragment_hesabim"
+        tools:layout="@layout/fragment_hesabim" />
+</navigation>
