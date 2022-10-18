@@ -1,4 +1,4 @@
 # TrendyolAnasayfaClone
 
 
-![alt text](images/image2.PNG)
+![alt text](images/image4.png)
